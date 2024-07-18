@@ -10,3 +10,10 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: aquamarine;
 }
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
